@@ -1,0 +1,4 @@
+subject -SE
+exp 7c
+Student name -Sanjuth Reddy
+CSM A
